@@ -47,6 +47,9 @@
     </h3>
    </section>
   </main>
+  <?
+	echo "<h1>Funciona PHP</h1>";
+	?>
   <a href="ejformulario.html">formulario</a>
   <br>
   <a href="ejlistasanidadas.html">listas anidadas</a>
